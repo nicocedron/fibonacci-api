@@ -14,7 +14,9 @@
 
 #### Headers
 
-<pre>Host: example.org
+<pre>Content-Type: application/json
+Authorization: Token token=KEY3
+Host: example.org
 Cookie: </pre>
 
 #### Route
@@ -34,8 +36,9 @@ Referrer-Policy: strict-origin-when-cross-origin
 Content-Type: application/json; charset=utf-8
 ETag: W/&quot;d93acd00ee225eb69e8382f35ac109b9&quot;
 Cache-Control: max-age=0, private, must-revalidate
-X-Request-Id: 2a03f5bb-ffc3-43c5-b1ee-897aa61b5888
-X-Runtime: 0.006093
+X-Request-Id: 38c97b2e-3d75-4535-82e7-512f3b2f2555
+X-Runtime: 0.013778
+Vary: Origin
 Content-Length: 11</pre>
 
 #### Status

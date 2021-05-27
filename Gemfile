@@ -9,6 +9,9 @@ gem 'rails', '~> 6.1.3', '>= 6.1.3.2'
 # Server
 gem 'puma', '~> 5.0'
 
+# Env vars
+gem 'figaro'
+
 # Db
 gem 'pg'
 

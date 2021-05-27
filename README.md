@@ -32,7 +32,8 @@ You also have to set up all environment variables and config your database setti
 ```
 [app-directory]/
 └── config/
-    └── database.yml       -> Database configuration.
+    ├── database.yml       -> Database configuration.
+    └── application.yml    -> Environment variables here.
 ```
 
 This application uses Figaro for setting up configuration environment variables. You should create an application.yml file under config/, following the structure described on config/application.sample.yml
