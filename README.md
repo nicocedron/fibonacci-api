@@ -11,6 +11,10 @@ API Docs
 -------
 You can read the docs [here](doc/api/index.md)
 
+My thought process
+-------
+You can read this [here](my_thought_process.md)
+
 Quick start
 -------
 
